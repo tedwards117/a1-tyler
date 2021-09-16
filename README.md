@@ -1,5 +1,9 @@
 # Comsc230-Assignment1-HTML
 
+$ git config --global user.name "Tyler Edwards"
+$ git config --global user.email "tedwards117@g.rwu.edu"
+
+
 First assignment basic html and css.
 
 Part 1: Organize your project files
